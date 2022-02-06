@@ -16,26 +16,32 @@ The following animations show examples of the application's API routes being tes
 
 * The following animation shows how to start the application’s server and how to GET routes to return all users and all thoughts being tested in Insomnia:
 ![App Usage Recording](./assets/get-all-routes.gif)
+
 [Recording Link](https://watch.screencastify.com/v/UUUvh3nTplvCx9b9P5d7)
 
 * The following animation shows GET routes for a single user and a single thought being tested in Insomnia:
 ![App Usage Recording](./assets/get-routes-for-single-user-and-thought.gif)
+
 [Recording Link](https://watch.screencastify.com/v/jbZU7mnM9R6FHxUZYDfS)
 
 * The following animation shows POST, PUT, and DELETE routes for users being tested in Insomnia:
 ![App Usage Recording](./assets/post-put-delete-routes-for-users.gif)
+
 [Recording Link](https://watch.screencastify.com/v/Q694h7WJ9JUG1kDbTCsf)
 
 * The following animation shows POST, PUT, and DELETE routes for thoughts being tested in Insomnia:
 ![App Usage Recording](./assets/post-put-delete-routes-for-thoughts.gif)
+
 [Recording Link](https://watch.screencastify.com/v/R4iwJtHZHhD6UoujZtAc)
 
 * The following animation shows POST and DELETE routes for a user’s friend list being tested in Insomnia:
 ![App Usage Recording](./assets/post-delete-routes-for-friends.gif)
+
 [Recording Link](https://watch.screencastify.com/v/QhXqgfOss89Z7jIaXubk)
 
 * The following animation shows POST and DELETE routes for reactions to thoughts being tested in Insomnia:
 ![App Usage Recording](./assets/post-delete-routes-for-reactions.gif)
+
 [Recording Link](https://watch.screencastify.com/v/NBxp20QYajXljaCWipzN)
 
 ## User Story
