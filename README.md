@@ -1,4 +1,4 @@
-# Challenge 18: NoSQL: Social Network API
+# Challenge 18: NoSQL-Social Network API
 
 # Activity Instructions:
 
